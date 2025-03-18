@@ -19,3 +19,5 @@ Customer churn directly impacts a company's revenue and growth. This project bui
 - **Best Model:** Logistic Regression (Highest explainability, strong performance)
 - **Key Insights:** Customers with **fiber optic internet** and **electronic check payments** had higher churn rates.
 - **Business Impact:** Predicting churn allows companies to **proactively retain customers**, reducing revenue loss.
+
+🔗 **View Interactive Notebook (nbviewer)**: [nbviewer Link](https://nbviewer.org/github/christopherFlynn/Customer-Churn-Telco/blob/main/Customer%20Churn%20%7C%20EDA%20and%20Modeling.ipynb)
